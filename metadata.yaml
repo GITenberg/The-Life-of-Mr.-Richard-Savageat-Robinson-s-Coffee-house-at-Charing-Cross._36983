@@ -1,0 +1,44 @@
+_repo: The-Life-of-Mr.-Richard-Savageat-Robinson-s-Coffee-house-at-Charing-Cross._36983
+_version: 0.1.0
+alternative_title: The Life of Mister Richard Savage
+contributor:
+  dubious_authors:
+  - agent_name: Defoe, Daniel
+    aliases:
+    - Defo, Daniel
+    - Moreton, Andrew
+    - John, Gabriel
+    deathdate: &id001 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+  - agent_name: Beckingham, Mr. (Charles)
+    alias: Beckingham, Charles
+    birthdate: 1699
+    deathdate: *id001
+    gutenberg_agent_id: '44512'
+    url: http://www.gutenberg.org/2009/agents/44512
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: Anonymous pamphlet variously attributed to Charles Beckingham or Daniel
+  Defoe.
+gutenberg_issued: '2011-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Authors, English -- 18th century -- Biography'
+- !lcsh 'Savage, Richard, -1743'
+- !lcsh 'Murderers -- Great Britain -- Biography'
+title: "The Life of Mr. Richard Savage\r\nWho was Condemn'd with Mr. James Gregory,\
+  \ the last Sessions at the Old Baily, for the Murder of Mr. James Sinclair, at Robinson's\
+  \ Coffee-house at Charing-Cross."
+url: http://www.gutenberg.org/ebooks/36983
